@@ -4,4 +4,4 @@
 - 🤔 Preparing for the work as Data Scientist
 - 💬 Ask me about working expirience and I'll legitimately yell at u
 - 📫 How to reach me: https://t.me/B1ackY or B1ackY#1852 at Discord
-- ⚡ Fun fact: the more u programm the less u programm
+- ⚡ Fun fact: the more u program the less u program
